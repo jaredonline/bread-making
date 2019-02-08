@@ -6,9 +6,9 @@ Here's a rough list of the things I use to make bread. **Note: None of these lin
 
 I really like plastic tubs for bread making.
 
-[2 quart round](https://breadtopia.com/store/dough-rising-and-storage-bucket-2-quart/) - For keeping my starter in and making my leaven
-[8 quart rectangle flat](https://www.webstaurantstore.com/cambro-26cw135-camwear-1-2-size-clear-food-pan-6-deep/21426CWCL.html?utm_source=Google&utm_medium=cpc&utm_campaign=GoogleShopping&gclid=EAIaIQobChMIieCz89ms4AIVlcJkCh1paQHIEAQYBSABEgL_r_D_BwE) - For the bulk phase
-[12 quart round](https://www.webstaurantstore.com/cambro-rfs12pp190-12-qt-translucent-round-storage-container/214RFS12PP.html) - For keeping my starter food in
+- [2 quart round](https://breadtopia.com/store/dough-rising-and-storage-bucket-2-quart/) - For keeping my starter in and making my leaven
+- [8 quart rectangle flat](https://www.webstaurantstore.com/cambro-26cw135-camwear-1-2-size-clear-food-pan-6-deep/21426CWCL.html?utm_source=Google&utm_medium=cpc&utm_campaign=GoogleShopping&gclid=EAIaIQobChMIieCz89ms4AIVlcJkCh1paQHIEAQYBSABEgL_r_D_BwE) - For the bulk phase
+- [12 quart round](https://www.webstaurantstore.com/cambro-rfs12pp190-12-qt-translucent-round-storage-container/214RFS12PP.html) - For keeping my starter food in
 
 ## Mixer
 
