@@ -58,6 +58,10 @@ Then the next morning I bake. I usually do this early in the morning, around 8a,
 
 The above is my _general_ outline. I make adjustments for each batch as I go, depending on how the dough is responding. Ken Forkish talks about how **time** and **temperature** are two of your main ingredients during the bulk fermentation and proofing phases. The temperature in my kitchen can vary by quite a bit, which means the timings can change.
 
+## Quantity
+
+Most of the recipes don't list actual volumes or weights of ingredients to use. They list [Baker's Percentages](https://en.wikipedia.org/wiki/Baker_percentage). I generally make 1kg loaves because they fit in my 8.5" baskets well, bake in 40m and fit in my oven. I believe that ~1kg is a standard size loaf. To do that, most of my recipes have 1000g of flour in them, which make two loaves. I frequently double my recipes to make four loaves.
+
 ## Journal
 
 I came up with this outline by baking dozens of loaves following Ken Forkish's and Chad Robertson's methods, keeping notes about how it was going. Over time I started changing small things and seeing how the outcome changed. I would encourage you to keep a journal as well. Everyone's kitchen and oven are slightly different, so my outline won't be your outline.
