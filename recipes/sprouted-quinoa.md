@@ -8,14 +8,14 @@ You need to sprout the quinoa the day before you make the dough (the same day yo
 
 ## Ingredients
 
-| Ingredient  | Baker's Percentage  |
-|---|--:|
-| White bread flour  | 90%  |
-| Whole wheat flour  |  10% |
-|  Water | 75%  |
-| Quinoa | 20% |
-| Leaven | 20% |
-| Salt | 2% |
+| Ingredient  | Baker's Percentage  | 2 ~1kg loaves |
+|---|--:|---|
+| White bread flour  | 90%  | 900g |
+| Whole wheat flour  |  10% | 100g |
+|  Water | 75%  | 750g |
+| Quinoa | 20% | 200g |
+| Leaven | 20% | 200g |
+| Salt | 2% | 20g |
 
 ## Notes
 

@@ -4,14 +4,14 @@ This is essentially a Pain au Levain with some hard red flour added. It makes fo
 
 ## Ingredients
 
-| Ingredient  | Baker's Percentage  |
-|---|--:|
-| White bread flour  | 80%  |
-| Whole wheat flour  |  10% |
-| Hard red flour | 10% |
-|  Water | 75%  |
-| Leaven | 20-25% |
-| Salt | 2% |
+| Ingredient  | Baker's Percentage  | 2 ~1kg loaves |
+|---|--:|---|
+| White bread flour  | 80%  | 800g |
+| Whole wheat flour  |  10% | 100g |
+| Hard red flour | 10% | 100g |
+|  Water | 75%  | 750g |
+| Leaven | 20-25% | 200-250g |
+| Salt | 2% | 20g |
 
 ## Notes
 
