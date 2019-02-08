@@ -4,7 +4,7 @@ I got this recipe from [a baker named Adam](https://www.instagram.com/season_ada
 
 ## Prep
 
-You need to sprout the quinoa the day before you make the bread. Early evening (around 6 or 7, if you're following my method), soak ~200g of quinoa in boiling water for about 2 hours. Drain the quinoa, put on a plate, and cover in a few dish towels over night. The quinoa should just barely start sprouting a tail by the time you need to bake with them.
+You need to sprout the quinoa the day before you make the dough (the same day you make the leaven). Early evening (around 6 or 7, if you're following my method), soak ~200g of quinoa in boiling water for about 2 hours. Drain the quinoa, put on a plate, and cover in a few dish towels over night. The quinoa should just barely start sprouting a tail by the time you need to bake with them.
 
 ## Ingredients
 
