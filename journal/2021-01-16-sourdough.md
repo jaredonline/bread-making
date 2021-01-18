@@ -4,10 +4,10 @@
 
 | Ingredient  | Amount | Other | Baker's Percentage |
 |-------------|--------|-------|--------------------|
-| Starter     | 82g    |       | 9.2%               |
-| Water       | 404g   | 104F  | 45.5%              |
-| 50/50 Flour | 401g   |       | 45.2%              |
-| Total       | 887g   |       |                    |
+| Starter     | 82g    |       | 20.4%               |
+| Water       | 404g   | 104F  | 100.7%              |
+| 50/50 Flour | 401g   |       | 100.0%              |
+| Total Flour | 401g   |       | * Doesn't include starter |
 
 
 ## Dough
@@ -39,3 +39,6 @@
 ## Notes
 
 Good oven spring
+Chewy crust
+Good crumb with medium sized holes
+Good flavor
