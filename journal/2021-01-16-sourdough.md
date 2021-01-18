@@ -38,7 +38,7 @@
 
 ## Notes
 
-Good oven spring
-Chewy crust
-Good crumb with medium sized holes
-Good flavor
+- Good oven spring
+- Chewy crust
+- Good crumb with medium sized holes
+- Good flavor
