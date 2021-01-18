@@ -35,6 +35,7 @@
 | Bench Rest                     |                      | ~30m                                                  |
 | Final shape and in fridge      | 1848                 |                                                       |
 | First batch                    | ~830 on Jan 18, 2021 | 20m with lid on, 20m with lid off at 500F entire time |
+| Second batch                   | ~940  | 20m with lid on, 20m with lid off at 500F entire time |
 
 ## Notes
 
