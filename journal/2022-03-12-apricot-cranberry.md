@@ -8,17 +8,19 @@ I've never done this before, but I did a twice-fed leaven for this. I've been ha
 
 | Ingredient  | Amount | Other | Baker's Percentage |
 |:-------------|:--------|:-------|:--------------------|
-| Starter     | 50g    |       | 25%               |
+| Starter     | 50g    |       | 16.7%               |
 | Water       | 300g   | 107F  | 100%              |
 | 50/50 Flour | 300g   |       | 100%              |
 
 ### Leaven Two
 
-| Ingredient  | Amount | Other | Baker's Percentage |
-|:-------------|:--------|:-------|:--------------------|
-| Leaven One     | 350g    |       | 25%               |
-| Water       | 150g   | 107F  | 100%              |
-| 50/50 Flour | 150g   |       | 100%              |
+The Tartine book says to discard half the first leaven and then add then feed it with 50% water and 50% 50/50 flour.
+
+| Ingredient  | Amount | Other |
+|:-------------|:--------|:-------|
+| Leaven One     | 350g    |       |
+| Water       | 150g   | 107F  | 
+| 50/50 Flour | 150g   |       |
 
 
 ## Dough
