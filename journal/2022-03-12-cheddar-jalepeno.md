@@ -9,7 +9,7 @@ I did a hybrid leaven for this dough which means I added some baker's yeast to t
 | Starter     | 99g    |       | 10%               |
 | Water       | 400g   | 95F  | 80%              |
 | King Arthur Bread Flour | 400g   |       | 80%              |
-| Whole Wheat Flour | 100g | 20% |
+| Whole Wheat Flour | 100g | | 20% | 
 
 
 ## Dough
@@ -33,7 +33,7 @@ I did a hybrid leaven for this dough which means I added some baker's yeast to t
 | Mixed leaven                   | 930 on Mar 12, 2022 |                                                       |
 | Mixed dough                    | 1504  |                                                       |
 | Autolyse                       |                      | ~50m                                                  |
-| Added salt, remaining water, baker's yeast jalapeño and cheee | 1601                 |                                                       |
+| Added salt, remaining water, baker's yeast, jalapeño and cheese | 1601                 |                                                       |
 | Turns                          | 1631, 1704, 1735, 1816     |                                                       |
 | Shaped                         | 2118                 |                                                       |
 | Bench Rest                     |                      | ~30m                                                  |
