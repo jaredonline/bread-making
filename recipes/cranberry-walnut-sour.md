@@ -1,4 +1,4 @@
-# Apricot Cranberry Sourdough
+# Cranberry Walnut Sourdough
 
 While visiting Tucson recently we had [Barrio Bread's](https://www.barriobread.com/) delicious Cranberry Walnut Sourdough. When we got home we wanted more so I gave it a go; here's the recipe I came up with.
 
@@ -12,7 +12,7 @@ Cut the walnuts into medium chunks.
 |---|--:|---|
 | White bread flour  | 80%  | 800g |
 | Whole wheat flour  |  20% | 200g |
-|  Water | 77%  | 770g |
+|  Water | 78%  | 780g |
 | Sweetened Dried Cranberries |  | 1.5c |
 | Walnut chunks |  | 1.5 cups |
 | Leaven | 20% | 200g |
