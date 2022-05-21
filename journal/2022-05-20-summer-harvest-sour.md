@@ -56,7 +56,7 @@ My original plan was to make the dough on 5/19, so I made a leaven on the night 
 | Shaped                         | 2154                 |                                                       |
 | Bench Rest                     |                      | ~45m                                                  |
 | Final shape and in fridge      | 2253                 |                                                       |
-| First batch                    | ~800 on Mar 13, 2022 | 20m with lid on, 25m with lid off at 500F entire time |
+| First batch                    | ~800 on May 21, 2022 | 20m with lid on, 25m with lid off at 500F entire time |
 | Second batch                   | ~910  | 20m with lid on, 25m with lid off at 500F entire time |
 
 ## Notes
